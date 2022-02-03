@@ -12,6 +12,7 @@
 
 #include <rtthread.h>
 #include <string.h>
+#include <stdint.h>
 
 #define THREAD_POOL_VER              "4.0.1"
 
